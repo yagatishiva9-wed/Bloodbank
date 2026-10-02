@@ -1,0 +1,6 @@
+{
+  "name": "HemaSync - Emergency Blood Bank & Donor Matching System",
+  "description": "Emergency blood bank and donor matching platform with category union type source modeling, real-time multi-dimensional stock aggregation, and critical inventory disaster recovery.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
